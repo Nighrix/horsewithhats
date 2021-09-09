@@ -46,7 +46,7 @@ module.exports = {
 },
 "9": {
   "name": "CrazyHorsePunks #9",
-  "color": Black
+  "color": "Black",
   "hattype": "Purple Classic Hat"
 },
 "10": {
